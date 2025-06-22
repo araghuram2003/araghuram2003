@@ -1,4 +1,4 @@
-## Hello world <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, I'm Alluri Raghu Ram
+## Hello world <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, My name is Alluri Raghu Ram
 
 
   <b>Student | Aspiring Analyst | Tech Enthusiast</b>
@@ -6,24 +6,23 @@
 - 😄 Pronouns: He/Him</h1>
 - 🎓 **Student** passionate about pursuing analyst roles and becoming a future **Data Scientist**.
 - 🤖 I love learning and exploring the world of data  from uncovering insights to providing actionable suggestions for humans.
-- 💡 Since the early days of recommending gadgets to friends and Familys, I've always enjoyed helping others make smart decisions!
+- 💡 Since the early days of recommending gadgets to friends and family, I’ve always enjoyed helping others make smart decisions and enjoy better gadgets!
 - 🎯 Always curious, always learning.
 
----
-
-### 📈 What I’m Working On
+<!--### 📈 What I’m Working On
 
 - Sharpening my **data analysis** and visualization skills.
 - Building projects with **Streamlit** to turn data into interactive apps.
-- Learning more about **cloud computing** and **cybersecurity basics**.
+- Learning more about **cloud computing** and **cybersecurity basics**.-->
 
 ---
 
 ### 🚀 Passions & Hobbies
-
-- 🎶 Music lover
-- 💻 Automoblies and Gadgets tech head 
-- 🔍 Always searching for the latest tech and AI websites
+- 🎶 Music enthusiast
+- 🚗 Automobiles & gadgets lover
+- 🤖 Curious about AI & emerging tech
+- 🌐 Exploring free tech courses & tools
+- 💬 Enjoy sharing & explaining tech to others
 
 
 
