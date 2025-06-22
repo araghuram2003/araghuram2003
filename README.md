@@ -1,14 +1,9 @@
-<!-- Profile README for araghuram2003 -->
+## Hello world <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, I'm Alluri Raghu Ram
 
-<h1 align="center">Hi, I'm Alluri Raghu Ram 👋</h1>
-<p align="center">
+
   <b>Student | Aspiring Analyst | Tech Enthusiast</b>
-</p>
 
----
-
-### 🌟 About Me
-
+- 😄 Pronouns: He/Him</h1>
 - 🎓 **Student** passionate about pursuing analyst roles and becoming a future **Data Scientist**.
 - 🤖 I love learning and exploring the world of data  from uncovering insights to providing actionable suggestions for humans.
 - 💡 Since the early days of recommending gadgets to friends, I've always enjoyed helping others make smart decisions!
@@ -41,7 +36,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ARaghuRam2003&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARaghuRam2003&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed  Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ARaghuRam2003&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
@@ -51,8 +46,8 @@
 
 ### 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.raghu_ram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alluri-raghu-ram) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ARaghuRam12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alluriraghuram.contact@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alluri-raghu-ram) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alluriraghuram.contact@gmail.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ARaghuRam12)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.raghu_ram)  
 ---
 
 <p align="center" style="color: #888;">
