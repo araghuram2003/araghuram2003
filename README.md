@@ -4,8 +4,8 @@
   <b>Student | Aspiring Analyst | Tech Enthusiast</b>
 
 - 😄 Pronouns: He/Him</h1>
-- 🎓 **Student** passionate about pursuing analyst roles and becoming a future **Data Scientist**.
-- 🤖 I love learning and exploring the world of data  from uncovering insights to providing actionable suggestions for humans.
+- 🎓 **Student** passionate about pursuing analyst roles.
+- 🤖 I love learning and exploring the world of data from uncovering insights to providing actionable suggestions for humans.
 - 💡 Since the early days of recommending gadgets to friends and family, I’ve always enjoyed helping others make smart decisions and enjoy better gadgets!
 - 🎯 Always curious, always learning.
 
