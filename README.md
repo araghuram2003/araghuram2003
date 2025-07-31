@@ -39,7 +39,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ARaghuRam2003&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ARaghuRam2003&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=res-ai&label=Profile%20views&color=0e75b6&style=flat" alt="res-ai" /> </p>
+
 
 ---
 
